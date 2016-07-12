@@ -1,4 +1,9 @@
 <?php
+/**
+ * @author Cigery(bestentech@gmail.com)
+ * @license MIT
+ */
+
 class alisms
 {
     private $_key;
