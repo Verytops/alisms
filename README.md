@@ -1,4 +1,4 @@
-# 阿里大鱼短信发送SDK(PHP简化版)
+## 阿里大鱼短信发送SDK(PHP简化版)
 * 整个SDK就1个核心类文件约100行代码，非常轻量精简
 * 兼容PHP5.2 - 7.0
 * 阿里的官方SDK实在不敢恭维
@@ -34,5 +34,6 @@ $res = $alisms->send();
 if(!$res) print_r($alisms->error);
 ```
 
-##### 具体api参数作用描述请自行参考官方API alibaba.aliqin.fc.sms.num.send (短信发送)中的说明
+
+具体api参数作用描述请自行参考官方API alibaba.aliqin.fc.sms.num.send (短信发送)中的说明
 
