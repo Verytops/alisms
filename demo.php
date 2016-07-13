@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('PRC');
 include 'alisms.php';
 
 $key = ''; //App Key
